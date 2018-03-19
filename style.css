@@ -1,0 +1,27 @@
+.buttondiv {
+    margin-top: 40px;
+
+}
+
+button {
+   margin-left: 5px;
+    margin-right: 5px;
+    background-color: rgb(250, 3, 118);
+    color: white;
+
+}
+
+form {
+    margin-top: 70px;
+}
+
+p {
+    width: 20%;
+    margin-top: 20px;
+}
+
+.imagesAnimal {
+padding-left: 50px;
+
+}
+
